@@ -1,6 +1,13 @@
 # Vuetify Date Range Picker
 
 # :sparkle: Announcement
+**Update** - Re-written component from ground up is being baked in the `next` branch. Check it out for what's coming.
+Highlights
+- All <v-text> options from vuetify supported.
+- All <v-menu> options from vuetify supported.
+- Improved highlighting.
+- More datepicker options and more.
+    
 I used my own component after quite some time and I realized how big of a pain it is. I am planning on a rewrite and would love if someone wanted to help me make this better. Email - praveenpuglia@gmail.com
 
 > The missing date range picker for Vuetify JS you have been looking for. ![Date Range Picker](https://raw.githubusercontent.com/praveenpuglia/vuetify-daterange-picker/master/public/vuetify-daterange-picker.gif)
